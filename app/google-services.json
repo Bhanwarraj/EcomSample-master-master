@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1099185445947",
+    "firebase_url": "https://ecommercenotify.firebaseio.com",
+    "project_id": "ecommercenotify",
+    "storage_bucket": "ecommercenotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099185445947:android:26d85707d3555ca0",
+        "android_client_info": {
+          "package_name": "com.allandroidprojects.ecomsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099185445947-pv8tcuqvd0msof2kn0hj8i2fb0b6081m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnoCbVeR7EJuxeCApMdy-V31MtLzzPRbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
